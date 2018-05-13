@@ -7,3 +7,5 @@
  
 # [从这里开始](https://github.com/fumoliufenyi/baiduyun/blob/master/%E9%A9%AC%E5%88%97%E4%B8%BB%E4%B9%89.md)
 # [分享链接](https://pan.baidu.com/s/1dFWFv8X)（eh2b）
+
+***告示；由于新增大量文件与结构调整，本版目录现极不完全。***
